@@ -1,0 +1,6 @@
+sim
+data/
+*.o
+*.a
+explorer/explorer
+wfa/wfa
